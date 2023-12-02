@@ -20,7 +20,7 @@ function App() {
     <Navbar login={userInfo? "Logout" : "Login"} onLogout={logout} user={userInfo}/>
       <Routes>
         <Route
-          exact path="/unicode_lp_task_3"
+          exact path="/"
           element={<Home user={userInfo} />}
         />
         <Route path="/login" element={<Login onSubmit={getData} />} />
