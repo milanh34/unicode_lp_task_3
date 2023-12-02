@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/unicode_task_3/static/css/main.1f1cdae6.css",
-    "main.js": "/unicode_task_3/static/js/main.3a44b4eb.js",
-    "static/js/787.2bb6ed31.chunk.js": "/unicode_task_3/static/js/787.2bb6ed31.chunk.js",
-    "index.html": "/unicode_task_3/index.html",
-    "main.1f1cdae6.css.map": "/unicode_task_3/static/css/main.1f1cdae6.css.map",
-    "main.3a44b4eb.js.map": "/unicode_task_3/static/js/main.3a44b4eb.js.map",
-    "787.2bb6ed31.chunk.js.map": "/unicode_task_3/static/js/787.2bb6ed31.chunk.js.map"
+    "main.css": "/unicode_lp_task_3/static/css/main.1f1cdae6.css",
+    "main.js": "/unicode_lp_task_3/static/js/main.6c2b0bc4.js",
+    "static/js/787.2bb6ed31.chunk.js": "/unicode_lp_task_3/static/js/787.2bb6ed31.chunk.js",
+    "index.html": "/unicode_lp_task_3/index.html",
+    "main.1f1cdae6.css.map": "/unicode_lp_task_3/static/css/main.1f1cdae6.css.map",
+    "main.6c2b0bc4.js.map": "/unicode_lp_task_3/static/js/main.6c2b0bc4.js.map",
+    "787.2bb6ed31.chunk.js.map": "/unicode_lp_task_3/static/js/787.2bb6ed31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1cdae6.css",
-    "static/js/main.3a44b4eb.js"
+    "static/js/main.6c2b0bc4.js"
   ]
 }
