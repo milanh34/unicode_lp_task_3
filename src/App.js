@@ -16,11 +16,11 @@ function App() {
     setUserInfo("");
   }
   return (
-    <Router>
+    <Router basename="/unicode_lp_task_3">
     <Navbar login={userInfo? "Logout" : "Login"} onLogout={logout} user={userInfo}/>
       <Routes>
         <Route
-          path="/"
+          exact path="/unicode_lp_task_3"
           element={<Home user={userInfo} />}
         />
         <Route path="/login" element={<Login onSubmit={getData} />} />
