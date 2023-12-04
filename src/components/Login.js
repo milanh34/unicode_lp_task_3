@@ -79,7 +79,7 @@ const Login = (props) => {
                     <div className="p-4 space-y-4 md:space-y-6 sm:p-4">
             <h1 className="text-xl font-bold leading-tight text-center tracking-tight md:text-2xl text-green-400">Login Successful !
             </h1>
-            <Link to="/" className="font-medium hover:underline text-blue-500">Go to Home Page</Link>
+            <Link to="/home" className="font-medium hover:underline text-blue-500">Go to Home Page</Link>
             </div></div></div>
           </section>
         ) : (
